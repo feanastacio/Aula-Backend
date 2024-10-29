@@ -6,7 +6,7 @@ int impar = 0;
 for (int i = 0; i < numeros.Length; i++)
 {
    Console.WriteLine($"Digite um {i + 1} número:");
-   int numeroDigitado = int.Parse(Console.ReadLine());
+   int numeroDigitado = int.Parse(Console.ReadLine()!);
 
     if (numeroDigitado %2 == 0)
     {
@@ -16,4 +16,5 @@ for (int i = 0; i < numeros.Length; i++)
     }
 }
 
-Console.WriteLine($"");
+Console.WriteLine($"Quantidades de números pares: {par}");
+Console.WriteLine($"Quantidades de números ímpares: {impar}");
