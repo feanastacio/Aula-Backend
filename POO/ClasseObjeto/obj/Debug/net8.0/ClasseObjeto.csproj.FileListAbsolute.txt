@@ -12,3 +12,18 @@ C:\Users\50776884867\Desktop\POO\ClasseObjeto\obj\Debug\net8.0\refint\ClasseObje
 C:\Users\50776884867\Desktop\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.pdb
 C:\Users\50776884867\Desktop\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.genruntimeconfig.cache
 C:\Users\50776884867\Desktop\POO\ClasseObjeto\obj\Debug\net8.0\ref\ClasseObjeto.dll
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.AssemblyInfo.cs
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.sourcelink.json
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.dll
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\refint\ClasseObjeto.dll
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.pdb
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.exe
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.deps.json
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.runtimeconfig.json
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.dll
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.pdb
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.genruntimeconfig.cache
+C:\Users\50776884867\Desktop\aula -backend\POO\ClasseObjeto\obj\Debug\net8.0\ref\ClasseObjeto.dll

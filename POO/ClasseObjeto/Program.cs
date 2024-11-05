@@ -1,6 +1,10 @@
 ﻿
 using ClasseObjeto.Classes;
-using System.Net.Http.Headers;
+// using System.Net.Http.Headers;
+
+Console.Clear();
+Console.WriteLine($"** Bem Vindo(a) ao programa ZooSharp **");
+Console.WriteLine($"");
 
 Animal cachorro =  new Animal();
 
@@ -27,3 +31,15 @@ Console.WriteLine($"Nome do meu cavalo: {cavalo.nome}.");
 Console.WriteLine($"Raça do {cavalo.nome}: {cavalo.raca}.");
 Console.WriteLine($"Cor do {cavalo.nome}: {cavalo.cor}.");
 Console.WriteLine($"Idade do {cavalo.nome}: {cavalo.idade} ano(s).");
+
+Console.WriteLine($"");
+
+cachorro.Envelhecer();
+Console.WriteLine($"A idade do(a) {cachorro.nome} envelhecida é {cachorro.idade} ");
+cavalo.Envelhecer();
+Console.WriteLine($"A idade do(a) {cavalo.nome} envelhecida é {cavalo.idade} ");
+Console.WriteLine($"");
+
+cachorro.FazerBarulho("AuAu");
+cavalo.FazerBarulho("Pocotó Pocotó");
+

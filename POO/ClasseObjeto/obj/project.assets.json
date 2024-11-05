@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50776884867\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
+      "projectUniqueName": "C:\\Users\\50776884867\\Desktop\\aula -backend\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
       "projectName": "ClasseObjeto",
-      "projectPath": "C:\\Users\\50776884867\\Desktop\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
+      "projectPath": "C:\\Users\\50776884867\\Desktop\\aula -backend\\POO\\ClasseObjeto\\ClasseObjeto.csproj",
       "packagesPath": "C:\\Users\\50776884867\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50776884867\\Desktop\\POO\\ClasseObjeto\\obj\\",
+      "outputPath": "C:\\Users\\50776884867\\Desktop\\aula -backend\\POO\\ClasseObjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50776884867\\AppData\\Roaming\\NuGet\\NuGet.Config",
