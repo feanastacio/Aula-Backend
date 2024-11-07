@@ -11,15 +11,15 @@ Console.Write($"Qual o nome do seu personagem? ");
 personagem.Nome = Console.ReadLine()!;
 Console.WriteLine();
 
-Console.Write($"Qual a idade do seu personagem? ");
+Console.Write($"Qual a idade do {personagem.Nome}? ");
 personagem.Idade = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
 
-Console.Write($"Qual é a armadura do seu personagem? ");
+Console.Write($"Qual é a armadura do {personagem.Nome}? ");
 personagem.Aramdura = Console.ReadLine()!;
 Console.WriteLine();
 
-Console.Write($"Qual a Inteligência Artificial utilizada pelo seu personagem? ");
+Console.Write($"Qual a Inteligência Artificial utilizada pelo {personagem.Nome}? ");
 personagem.Ia = Console.ReadLine()!;
 Console.WriteLine();
 
