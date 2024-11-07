@@ -11,11 +11,11 @@ namespace Rpg.Classes
 
         public void Atacar () 
         {
-            Console.WriteLine($"O {Nome} atacou!");
+            Console.WriteLine($"O {Nome} atacou o inimigo!");
         }
         public void Defender ()
         {
-            Console.WriteLine ($"O {Nome} defendeu!");  
+            Console.WriteLine ($"O {Nome} defendeu o golpe inimigo!");  
         }
         public void Restaurar ()
         {
