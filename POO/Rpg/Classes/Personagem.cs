@@ -8,10 +8,21 @@ namespace Rpg.Classes
     public class Personagem
     {
         public string Nome;
-        public int idade;
-        public string aramdura;
-        public string ia;
+        public int Idade;
+        public string Aramdura;
+        public string Ia;
 
-        public void 
+        public void Atacar () 
+        {
+            Console.WriteLine($"O {Nome} atacou!");
+        }
+        public void Defender ()
+        {
+            Console.WriteLine ($"O {Nome} defendeu");  
+        }
+        public void Restaurar ()
+        {
+            Console.WriteLine ($"O {Nome} restaurou a armadura");  
+        }
     }
 }
