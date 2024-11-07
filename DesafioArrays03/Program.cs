@@ -15,7 +15,8 @@ float[] temperaturas = new float[12];
     for (int i = 1; i < 12; i++)
     {
         if (temperaturas[i] > maiorTemperatura)
-        maiorTemperatura = temperaturas[i];
+        maiorTemperatura = temperaturas[i]; 
+        
         if (temperaturas[i] < menorTemperatura)
          menorTemperatura = temperaturas[i];
     }
