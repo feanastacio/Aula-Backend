@@ -1,42 +1,44 @@
 ﻿
+using System.Globalization;
 using Construtores.Classes;
 
-Console.WriteLine($"*** Bem Vindo ao Programa de Jogos ***");
+// Console.WriteLine($"*** Bem Vindo ao Programa de Jogos ***");
 
-int opcao;
-string gamelist;
+// int opcao;
+// string gamelist;
 
-do
-{
-Console.WriteLine(@$"
------ Menu de Opções -----
+// do
+// {
+// Console.WriteLine(@$"
+// ----- Menu de Opções -----
+// |  1 - Cadastras Jogos   |
+// |  2 - Listar Jogos      |
+// |  3 - Sair              |
+// --------------------------
+// ");
 
-  1 - Cadastras Jogos
-  2 - Listar Jogos
-  3 - Sair
---------------------------
-");
+// Console.WriteLine($"Qual opção você gostaria?");
+// opcao = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine($"Qual opção você gostaria?");
-opcao = int.Parse(Console.ReadLine()!);
+// if (opcao == 1)
+// {
+//     Console.WriteLine($"Qual o nome do jogo?");
+//     String Nome = Console.ReadLine()!;
+//     Console.WriteLine($"Qual o genêro do jogo?");
+//     String Genero = Console.ReadLine()!;
+//     Console.WriteLine($"Qual o lançamento do jogo?");
+//     int Lancamento = int.Parse(Console.ReadLine()!);
+//     Console.WriteLine($"Qual o valor do jogo?");
+//     float Preco = float.Parse(Console.ReadLine()!);
 
-if (opcao == 1)
-{
-    Console.WriteLine($"Qual o nome do jogo?");
-    String Nome = Console.ReadLine()!;
-    Console.WriteLine($"Qual o genêro do jogo?");
-    String Genero = Console.ReadLine()!;
-    Console.WriteLine($"Qual o lançamento do jogo?");
-    int Lancamento = int.Parse(Console.ReadLine()!);
-    Console.WriteLine($"Qual o valor do jogo?");
-    float Preco = float.Parse(Console.ReadLine()!);
-
-} else if (opcao == 2)
-{
+// } else if (opcao == 2)
+// {
     
-}
+// }
 
-} while (opcao != 0);
+// } while (opcao != 0);
+
+// -----------------------------------------------------------------------------------
 
 // List<Jogo> jogoslist = new List<Jogo>();
 // Jogo jogo1 = new Jogo("Lego Batman", 2008, "Ação e aventura", 169.35f);
@@ -80,3 +82,22 @@ if (opcao == 1)
 // // Veiculo carro2 = new Veiculo("Ford", "Mustang", 1967, "Vermelho");
 // // Aluno aluno = new Aluno("Fernanda", 16, 1578664);
 // // Jogo jogo = new Jogo("Lego Batman", 23/09/2008, "Ação e aventura", 169.35f);
+
+// -----------------------------------------------------------------------------
+
+Aluno2 annaAraujo = new Aluno2 ("Anna Araújo");
+annaAraujo.Cpf = 4444;
+Aluno2 feMarques = new Aluno2 ("Fernanda Marques");
+feMarques.Cpf = 555;
+
+Aluno2 jujuMartelo =  new Aluno2 ("Julia Martelo", 525435131);
+
+Console.WriteLine(annaAraujo.Nome);
+Console.WriteLine(annaAraujo.Cpf);
+
+Console.WriteLine(feMarques.Nome);
+Console.WriteLine(feMarques.Cpf);
+
+Console.WriteLine(jujuMartelo.Nome);
+Console.WriteLine(jujuMartelo.Cpf);
+
